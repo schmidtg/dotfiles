@@ -4,4 +4,5 @@ tags
 /log
 /node_modules/
 /tmp
-/vendor
+tests/load
+vendor/bundle
